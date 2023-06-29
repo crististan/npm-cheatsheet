@@ -75,6 +75,23 @@ Update a package as a development dependency
 ```
 npm update --save-dev <package_name>
 ```
+## Uninstall packages
+Uninstall a package
+```
+npm uninstall <package_name>
+```
+Uninstall a package globally
+```
+npm uninstall -g <package_name>
+```
+Uninstall a package as a production dependency
+```
+npm uninstall --save <package_name>
+```
+Uninstall a package as a development dependency
+```
+npm uninstall --save-dev <package_name>
+```
 ## Install frameworks
 ### Vite
 ```
