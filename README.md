@@ -22,7 +22,7 @@ npm -v
 ```
 npm --version
 ```
-Run scripts
+Run the scripts defined scripts in the package.json file
 ```
 npm run <script_name>
 ```
@@ -88,4 +88,8 @@ npm create vite@latest <app_name> --template <template_name>
 ### Svelte
 ```
 npm create svelte@latest <app_name>
+```
+### Astro
+```
+npm create astro@latest
 ```
