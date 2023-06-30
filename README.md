@@ -1,4 +1,15 @@
 # NPM Cheatsheet
+Table of contents
+  * [General commands](#general-commands)
+  * [Check the npm version](#check-the-npm-version)
+  * [Install packages](#install-packages)
+  * [Update packags](#update-packages)
+  * [Uninstall packages](#uninstall-packages)
+  * [Install frameworks](#install-frameworks)
+      * [Vite](#vite)
+      * [Svelte](#svelte)
+      * [Astro](#astro)
+      * [Vue](#vue)
 ## General commands
 Create a package.json file
 ```
@@ -110,3 +121,8 @@ npm create svelte@latest <app_name>
 ```
 npm create astro@latest
 ```
+### Vue
+```
+npm init vue@latest
+```
+
