@@ -114,8 +114,15 @@ npm create vite@latest <app_name> --template <template_name>
 //as template you can use vanilla, vue, react, preact, lit, svelte
 ```
 ### Svelte
+Install sveltekit
 ```
 npm create svelte@latest <app_name>
+```
+Install svelte
+```
+npm init vite
+
+# The select svelte as template
 ```
 ### Astro
 ```
