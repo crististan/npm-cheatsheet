@@ -7,9 +7,10 @@ Table of contents
   * [Uninstall packages](#uninstall-packages)
   * [Install frameworks](#install-frameworks)
       * [Vite](#vite)
+      * [React](#react)
+      * [Vue](#vue)
       * [Svelte](#svelte)
       * [Astro](#astro)
-      * [Vue](#vue)
 ## General commands
 Create a package.json file
 ```
@@ -113,12 +114,22 @@ Specify the project name and the template you want to use
 npm create vite@latest <app_name> --template <template_name>
 //as template you can use vanilla, vue, react, preact, lit, svelte
 ```
+### React
+```
+npm init vite
+
+# Then select react as template
+```
+### Vue
+```
+npm init vue@latest
+```
 ### Svelte
-Install sveltekit
+Install Sveltekit
 ```
 npm create svelte@latest <app_name>
 ```
-Install svelte
+Install Svelte (via Vite)
 ```
 npm init vite
 
@@ -128,8 +139,3 @@ npm init vite
 ```
 npm create astro@latest
 ```
-### Vue
-```
-npm init vue@latest
-```
-
