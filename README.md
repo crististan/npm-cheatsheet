@@ -122,7 +122,7 @@ Install svelte
 ```
 npm init vite
 
-# The select svelte as template
+# Then select svelte as template
 ```
 ### Astro
 ```
