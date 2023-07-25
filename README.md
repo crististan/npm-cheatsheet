@@ -13,6 +13,8 @@ Table of contents
       * [Astro](#astro)
    * [Other packages](#other-packages)
      * [Sass](#sass)
+     * [Bootstrap](#bootstrap)
+     * [Tailwind](#tailwind)
 ## General commands
 Create a package.json file
 ```
@@ -148,4 +150,13 @@ npm install -g sass
 ```
 ```
 npm install --save-dev sass
+```
+### Bootstrap
+```
+npm install bootstrap
+```
+### Tailwind
+```
+npm install -D tailwindcss
+npx tailwindcss init
 ```
