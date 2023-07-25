@@ -11,7 +11,7 @@ Table of contents
       * [Vue](#vue)
       * [Svelte](#svelte)
       * [Astro](#astro)
-   * [Install packages](#install-packages)
+   * [Other packages](#other-packages)
      * [Sass](#sass)
 ## General commands
 Create a package.json file
@@ -141,7 +141,7 @@ npm init vite
 ```
 npm create astro@latest
 ```
-## Install packages
+## Other packages
 ### Sass
 ```
 npm install -g sass
