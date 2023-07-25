@@ -139,3 +139,11 @@ npm init vite
 ```
 npm create astro@latest
 ```
+## Install packages
+### Sass
+```
+npm install -g sass
+```
+```
+npm install --save-dev sass
+```
