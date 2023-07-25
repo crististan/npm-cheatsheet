@@ -11,6 +11,8 @@ Table of contents
       * [Vue](#vue)
       * [Svelte](#svelte)
       * [Astro](#astro)
+   * [Install packages](#install-packages)
+     * [Sass](#sass)
 ## General commands
 Create a package.json file
 ```
